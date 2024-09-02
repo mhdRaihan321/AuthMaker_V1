@@ -1,2 +1,4 @@
-/vene
 /__pycache__
+# Ignore virtual environment
+venv/
+
